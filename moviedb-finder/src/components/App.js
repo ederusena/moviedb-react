@@ -1,11 +1,16 @@
-import React from 'react';
+import React, { Component } from 'react';
+import Nav from './Nav'
+import SearchArea from './SearchArea'
 
-function App() {
-  return (
-    <div className="App">
-      <h1>Movie Finder</h1>
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <Nav />
+        <SearchArea />
+      </div>
+    );
+  }
 }
 
 export default App;
