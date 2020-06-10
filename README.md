@@ -1,14 +1,14 @@
 # HOME Movie-DB
 
-![Movie-db-main](/image/1.png)
+![Movie-db-main](https://github.com/ederusena/moviedb-react/blob/master/moviedb-finder/image/1.png)
 
 # Search movie
 
-![Movie-db-search](/image/2.png)
+![Movie-db-search](https://github.com/ederusena/moviedb-react/blob/master/moviedb-finder/image/2.png)
 
 # Movie info
 
-![Movie-db-info](/image/3.png)
+![Movie-db-info](https://github.com/ederusena/moviedb-react/blob/master/moviedb-finder/image/3.png)
 
 ## Available Scripts
 
