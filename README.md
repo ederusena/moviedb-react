@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# HOME Movie-DB
+
+![Movie-db-main](/image/1.png)
+
+# Search movie
+
+![Movie-db-search](/image/2.png)
+
+# Movie info
+
+![Movie-db-info](/image/3.png)
 
 ## Available Scripts
 
